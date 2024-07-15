@@ -1,2 +1,2 @@
 # Automation-Frame-Work
-This repository is to develop a Automation Frame Work Application
+This repository is to develop a Automation Selenium Cucumber Framework Structure
